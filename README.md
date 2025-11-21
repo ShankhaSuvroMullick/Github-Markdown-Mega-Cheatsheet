@@ -2,7 +2,7 @@
 
 ### 🚀 Purpose
 
-A complete reference for **GitHub-flavored Markdown** + **Full Emoji usage cheat-sheet**. Perfect for adding to your repository README.
+A complete reference for **GitHub-flavored Markdown** + **Full Emoji usage cheat-sheet**.
 
 ---
 
